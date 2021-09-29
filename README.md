@@ -2,4 +2,4 @@
 Hello World!
 
 # Text 2
-UAH One Month
+Uhhhhhh C++ is the best language ever.
